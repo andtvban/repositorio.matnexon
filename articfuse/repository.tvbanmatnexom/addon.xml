@@ -15,7 +15,7 @@
 			
     <extension point="xbmc.addon.metadata">
         <summary>[COLOR azure]Repo [COLOR green]mat[COLOR blueviolet]nex[COLOR cyan]om[/COLOR]</summary>
-        <description>Repositorio de addons para [COLOR azure]TVBAN[/COLOR].
+        <description>[COLOR azure]Repositorio de addons para [COLOR cyan]TVBAN[/COLOR].
 [B][COLOR lime]CREDITOS:
 [COLOR white]• Developers:[/COLOR][/B] [COLOR gold]JoseaTeba[/COLOR]</description> 		             
         <disclaimer>[COLOR cyan]Éste repositorio sólo recoge Add-ons externos válidos para [COLOR steelblue]KODI 20 [COLOR blueviolet]NEXUS, [COLOR steelblue]KODI 21 [COLOR deepskyblue]OMEGA [/COLOR]</disclaimer>
