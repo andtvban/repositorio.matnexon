@@ -1,6 +1,6 @@
-name="TVban matnexom"
+name="TVban Amillians"
 version="1.0"
-url="https://github.com/andtvban/repositorio.andtvban/releases/download/9.0/TVban.matnexom.zip"
+url="https://github.com/andtvban/repositorio.matnexon/releases/download/1/tvbanamillians.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
