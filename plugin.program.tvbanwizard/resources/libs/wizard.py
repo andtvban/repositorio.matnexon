@@ -84,7 +84,7 @@ class Wizard:
             buildzip = check.check_build(name, 'url')
             zipname = name.replace('\\', '').replace('/', '').replace(':', '').replace('*', '').replace('?', '').replace('"', '').replace('<', '').replace('>', '').replace('|', '')
 
-            self.dialogProgress.create(CONFIG.ADDONTITLE, '[COLOR {0}][B]Descargando:[/B] [COLOR yellowgreen]{1}[COLOR khaki]v{2}[/COLOR]'.format(CONFIG.COLOR2, CONFIG.COLOR1, name, check.check_build(name, 'version')) + '\n' + 'Espere por Favor')
+            self.dialogProgress.create(CONFIG.ADDONTITLE, '[COLOR {0}][B]Descargando:[/B] [COLOR yellowgreen]{1}[COLOR khaki]-v{2}[/COLOR]'.format(CONFIG.COLOR2, CONFIG.COLOR1, name, check.check_build(name, 'version')) + '\n' + 'Espere por Favor')
 
             lib = os.path.join(CONFIG.MYBUILDS, '{0}.zip'.format(zipname))
             
